@@ -22,7 +22,7 @@ client.on('ready', async () => {
         .setAssetsLargeText('Testimoni 850+')
         .setAssetsSmallImage('https://media.discordapp.net/attachments/1282219539140055101/1285229479983186021/1196765932119408711.gif?ex=66e982ba&is=66e8313a&hm=978f3c84ceed4a594ddc54cd91a22b7b4f5be4188e631d0f63462dd32b978a19&=')
         .setAssetsSmallText('Verified')
-        .addButton('Join Warmut Store', 'https://discord.gg/warmut')
+        .addButton('Join Warmut Store', 'https://discord.gg/vtvzgUESqY')
         .addButton('Slow Respon? Tekan Ini', 'https://wa.me/6283102229967');
 
     client.user.setActivity(r);
