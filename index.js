@@ -18,9 +18,9 @@ client.on('ready', async () => {
         .setState('& N1tro Murah, Aman, Begaransi')
         .setName('Warmut Store')
         .setDetails('Menjual Berbagai App Premium')
-        .setAssetsLargeImage('https://media.discordapp.net/attachments/1282219539140055101/1285229480348225619/20240609_172952_0000.png?ex=66e982ba&is=66e8313a&hm=b5bbb8735f70fe3645600b97432ff9ebaf2ed3ec31b1d80f687cc12efb73d542&=&format=webp&quality=lossless&width=423&height=423')
+        .setAssetsLargeImage('https://media.discordapp.net/attachments/1282219539140055101/1287989526228107378/20240609_172952_0000.png?ex=66f38d38&is=66f23bb8&hm=362a2c4892f8b455fae11ec7cd05d5860fb35e0b91c909b98cd026b18776de6f&=&format=webp&quality=lossless&width=480&height=480')
         .setAssetsLargeText('Testimoni 850+')
-        .setAssetsSmallImage('https://media.discordapp.net/attachments/1282219539140055101/1285229479983186021/1196765932119408711.gif?ex=66e982ba&is=66e8313a&hm=978f3c84ceed4a594ddc54cd91a22b7b4f5be4188e631d0f63462dd32b978a19&=')
+        .setAssetsSmallImage('https://media.discordapp.net/attachments/1282219539140055101/1287989526618312725/verif.gif?ex=66f38d38&is=66f23bb8&hm=df6778c66296715576462f511b7c830c1cbdbe27702802727befd3fecf412e71&=')
         .setAssetsSmallText('Verified')
         .addButton('Join Warmut Store', 'https://discord.gg/vtvzgUESqY')
         .addButton('Slow Respon? Tekan Ini', 'https://wa.me/6283102229967');
